@@ -1,1 +1,1 @@
-branchA new file
+from branchA new file
